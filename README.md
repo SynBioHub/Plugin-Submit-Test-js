@@ -1,4 +1,4 @@
-# Plugin-Download-Test-js
+# Plugin-Submit-Test-js
 A small test plugin to test the submit interface is working for SynBioHub. Could be the basis for javascript (Node.js) based submit plugins.
 
 # Install
